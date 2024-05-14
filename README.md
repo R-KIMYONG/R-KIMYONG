@@ -43,7 +43,7 @@
 <div>
 
 [![Solved.ac
-R-KIMYONG](http://mazassumnida.wtf/api/v2/generate_badge?boj={R-KIMYONG})](https://solved.ac/{R-KIMYONG})
+rladyd5](http://mazassumnida.wtf/api/v2/generate_badge?boj={R-KIMYONG})](https://solved.ac/{rladyd5})
 
 </div>
 
